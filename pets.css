@@ -1,36 +1,65 @@
-body{background-color:yellow;
+body{background-image:url("http://www.rff.org/files/terms/backgrounds/Forests.jpg");
 
 }
+/*
 link{
 border-radius: 10px 10px 10px 10px;
 background-color: red;
 borderin
-}
+}*/
 
 img {
 
   display:block;
   margin-left: auto;
   margin-right: auto;
+
   width:50%;
 
 }
+
+footer{
+  color:#F0FFFF;
+}
+
 
 div.Toys{
 border-radius: 10px 10px 10px 10px;
 
 display: inline-block;
 padding: 80px 10px 10px 10px;
+color: #F0FFFF;
 }
 
 div.Bio{
   border-radius: 10px 10px 10px 10px;
-
   display: inline-block;
   padding: 80px 10px 10px 10px;
+  color: #F0FFFF;
 }
 
 a{
-color:black;
+color:#F0FFFF;
 
+}
+
+#pokemon {
+
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  width:auto;
+
+}
+
+div.basicInfo {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 10px;
+  color: #F0FFFF;
+
+}
+
+ul.days{
+position: absolute;
 }
